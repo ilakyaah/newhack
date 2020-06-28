@@ -1,0 +1,45 @@
+#type1{
+    border: 2px solid black;
+    width:200px;
+    height:30px;
+   margin :auto;
+   display:block;
+   margin-top:70px;
+   color:black;
+}
+#type3{
+    margin: auto;
+    display:block;
+    margin-top: 15px;
+    border: 1px solid black;
+}
+#type2{
+    margin: auto;
+    display: block;
+    margin-top: 15px;
+    border:1px solid black;
+}
+
+body{
+    border: 2px solid black;
+    width:600px;
+    height: 450px;
+    margin: auto;
+    display: block;
+    margin-top: 200px;
+    box-shadow: 10px 10px  #888888;
+   
+}
+
+h2{
+    text-align: center;
+    padding-top: 13px;
+    font-weight: bolder;
+}
+#output{
+    text-align: center;
+    padding-top: 20px;
+}
+#output1{
+    text-align: center;
+}
